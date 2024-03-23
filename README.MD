@@ -28,3 +28,6 @@ data j'ai réalisé les tests suivants en utilisant H2 :</p>
 <p>Après la reconfiguration du fichier application.properties
 la migration vers MySQL a été faite avec succès</p>
 <img src="./Captures/img_8.png"/>
+<h4>la couche web </h4>
+<p>les données sont affichées sous format JSON</p>
+<img src="./Captures/img_9.png"/>

@@ -69,10 +69,10 @@ public class ProductAppApplication implements CommandLineRunner {
 
         //supprimer un produit
 
-        Product productToDelete=productRepository.findById(Long.valueOf(2)).get();
-        if(productToDelete!=null)
+        Product productToDelete=productRepository.findById(Long.valueOf(3)).get();
+       if(productToDelete!=null)
         {
-            productRepository.delete(productToDelete);
+            //productRepository.delete(productToDelete);
             System.out.println("le produit a été supprimé avec succès.");
         }
         else
