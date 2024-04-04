@@ -1,8 +1,7 @@
 <h2>Compte rendu de l'activité ORM JPA Hibernate Spring Data</h2>
-<p>Après la création de l'entité JPA Product, la configuration de
- l'unité de persistance dans le fichier application.properties
- puis la création de l'interface JPA ProductRepository basée sur Spring
-data j'ai réalisé les tests suivants en utilisant H2 :</p>
+<p>Après la création de l'entité JPA Product et la création de l'interface JPA 
+ProductRepository basée sur Spring data 
+j'ai réalisé les tests suivants en utilisant H2 :</p>
 
 <h4>Ajouter des produits</h4>
 <img src="./Captures/img.png"/>
